@@ -1,4 +1,3 @@
-```markdown
 # Speech-to-Text and NLP Analysis
 
 This project performs Speech-to-Text analysis, compares the performance of various NLP Toolkits, and implements Text Summarization for healthcare transcripts.
