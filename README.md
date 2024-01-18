@@ -37,13 +37,13 @@ Replace `<path_to_audio_file>` with the path to the audio file.
 ### NLP Toolkits Comparison
 
 ```bash
-python nlp_comparison.py
+python nlp_comparison.py <path_to_text_file>
 ```
 
 ### Text Summarization
 
 ```bash
-python text_summarization.py
+python text_summarization.py <path_to_text_file>
 ```
 
 ## Note
